@@ -4,7 +4,7 @@ tensorflow==2.9.0
 
 tensorflow-datasets==4.6.0
 
-Keras-Preprocessing==1.1.12
+Keras-Preprocessing==1.1.2
 
 pillow==9.1.1
 
